@@ -145,7 +145,7 @@ Search: "sony headphones" (Max: $300)
 
 ## 🔗 Links
 
-- **Live Demo**: https://openbox-deals-production.up.railway.app
+- **Live Demo**: https://openbox-deals-production-658b.up.railway.app/
 
 ## 📄 License
 
